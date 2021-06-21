@@ -1,0 +1,5 @@
+name: BungeeManagement
+version: ${project.version}
+author: JinVan
+main: cc.i9mc.bungeemanagement.BungeeManagement
+depends: [RedisBungee, BungeeQueue, PluginChannel, GameUtils]
